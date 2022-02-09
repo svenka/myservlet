@@ -15,7 +15,7 @@
 <c:url value="title.jsp" var="importUrl">
 <c:param name="pageName" value="import templete page" />
 </c:url>
-
+<hr>
 <c:import url="${importUrl}"/>
 
 
