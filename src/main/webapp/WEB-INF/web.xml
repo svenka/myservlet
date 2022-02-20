@@ -35,4 +35,10 @@
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
 
+
+    <taglib>
+        <taglib-uri>kfyTags</taglib-uri>
+        <taglib-location>/WEB-INF/custom-tags.tld</taglib-location>
+    </taglib>
+
 </web-app>

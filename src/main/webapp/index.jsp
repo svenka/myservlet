@@ -11,7 +11,7 @@
 <h1>Hello JSP</h1>
 
 <%
-String[] tagTypes=new String[]{"for","if","case","import"};
+String[] tagTypes=new String[]{"for","if","case","import","tag"};
 request.setAttribute("urls",tagTypes);
 
 %>
